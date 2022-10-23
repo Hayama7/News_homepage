@@ -17,7 +17,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
  # Mobile View
   ![](./my-solution/mobile-view.png)
  # Mobile Menu
-! [](./my-solution/mobile-menu.png)
+  ![](./my-solution/mobile-menu.png)
 
 ## My process
 
